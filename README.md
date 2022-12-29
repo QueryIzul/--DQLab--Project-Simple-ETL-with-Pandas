@@ -174,7 +174,7 @@ Meskipun begitu, ada suatu aturan dari MySQL terkait format tanggal yang bisa me
 
 Contohnya yaitu: 2021-04-07
 
-Jika kita lihat kembali pada kolom tanggal lahir terlihat bahwa nilainya belum sesuai dengan format DATE dari MySQL
+Jika kita lihat kembali pada kolom tanggal lahir terlihat bahwa nilainya belum sesuai dengan format DATE dari MySQL.
 
 Oleh karena itu, lakukanlah formatting terhadap kolom birth_date menjadi YYYY-MM-DD dan simpan di kolom yang sama.
 
