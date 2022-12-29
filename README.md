@@ -200,6 +200,10 @@ Maka dari itu, tugas Anda yaitu untuk merubah register_time ke format DATETIME s
 
 Simpanlah hasil tersebut ke kolom register_at.
 
+![gambar](gambar16.PNG)
+
+![gambar](gambar17.PNG)
+
 ## Kesimpulan
 Dengan begitu, tibalah kita di penghujung dari chapter bagian transform ini.
 
