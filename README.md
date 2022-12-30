@@ -150,7 +150,7 @@ Contoh:<br>
   Institusi: UD Prakasa Mandasari<br>
   Negara: Georgia<br>
   Maka, Email nya: citranurdiyanti@upm.geo
-  -----------------------------------
+ _____________________________________________
   Nama depan: Aris<br>
   Nama belakang: Setiawan<br>
   Institusi: Universitas Diponegoro<br>
