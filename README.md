@@ -144,17 +144,17 @@ cc -> merupakan negara asal peserta, adapun aturannya:
 - Jika banyaknya kata pada negara tersebut lebih dari 1 maka ambil singkatan dari negara tersebut dalam lowercase
 - Namun, jika banyaknya kata hanya 1 maka ambil 3 huruf terdepan dari negara tersebut dalam lowercase
 
-Contoh:
-  Nama depan: Citra
-  Nama belakang: Nurdiyanti
-  Institusi: UD Prakasa Mandasari
-  Negara: Georgia
-  Maka,Email nya: citranurdiyanti@upm.geo
+Contoh:<br>
+  Nama depan: Citra<br>
+  Nama belakang: Nurdiyanti<br>
+  Institusi: UD Prakasa Mandasari<br>
+  Negara: Georgia<br>
+  Maka, Email nya: citranurdiyanti@upm.geo
   -----------------------------------
-  Nama depan: Aris
-  Nama belakang: Setiawan
-  Institusi: Universitas Diponegoro
-  Negara: Korea Utara
+  Nama depan: Aris<br>
+  Nama belakang: Setiawan<br>
+  Institusi: Universitas Diponegoro<br>
+  Negara: Korea Utara<br>
   Maka, Email nya: arissetiawan@ud.ac.ku
   
 ![gambar](gambar12.PNG)
@@ -182,7 +182,7 @@ Oleh karena itu, lakukanlah formatting terhadap kolom birth_date menjadi YYYY-MM
 
 ![gambar](gambar15.PNG)
 
-### Transform Bagian VII - Tanggal Daftar Kompetisi
+### Transform Bagian VIII - Tanggal Daftar Kompetisi
 Selain punya aturan mengenai format DATE, MySQL juga memberi aturan pada data yang bertipe DATETIME yaitu YYYY-MM-DD HH:mm:ss dengan keterangan:
 
 - YYYY: 4 digit yang menandakan tahun
